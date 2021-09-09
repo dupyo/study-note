@@ -5,7 +5,7 @@
  - Spring Initializr 프로젝트 새로 만들면서 강의 시작
 
 
-
+### 1주차 강의
 1. Week01Application 실행 후 localhost:8080 페이지 불러오기 성공
 2. 플러그인에서 Monokai Pro Theme 설치 후 적용
 3. Editor -> General -> Auto import 에서 
