@@ -16,7 +16,7 @@ https://www.example.com/index.html - URI : O, URL : O
 
 https://www.example.com/index - URI : O, URL : X
 
-
+<br/>
 
 ## URI의 구조
 
