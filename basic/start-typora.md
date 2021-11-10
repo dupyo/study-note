@@ -1,3 +1,3 @@
-# Typora 노트 정리 시작!!!
+# 노트 정리 시작!!!
 
-## Java, Spring, Python
+## Java, Spring, Python, 컴퓨터 구조
