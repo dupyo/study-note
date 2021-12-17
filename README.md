@@ -1,2 +1,2 @@
-# note
-노트 정리 by typora
+# study-note
+노트 정리
