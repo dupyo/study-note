@@ -644,7 +644,7 @@
    - 메모리 주소 레지스터 : 명령어 레지스터에 저장된 명령어 주소 저장
    - 프로그램 카운터 : 다음 수행할 명령어 주소 저장
 
-   ![image-20211227161810418](C:\study-note\developer-study\img\image-20211227161810418.png)
+   ![image-20211227161810418](https://user-images.githubusercontent.com/42468263/148175780-ab064287-d46d-41bc-8226-055b4d22bf1b.png)
 
    
 
@@ -794,7 +794,7 @@
 
    \- 해독된 결과로 제어신호를 만들어 각 장치로 전달
 
-   ![image-20211230144404704](C:\study-note\developer-study\img\image-20211230144404704.png)
+   ![image-20211230144404704](https://user-images.githubusercontent.com/42468263/148175784-9075ff77-bc6b-438f-873a-66c6a27313e2.png)
 
    <br/>**주기억장치의 구조**
 
@@ -811,7 +811,7 @@
 
    - 판독 회로는 해당 번지에 저장된 내용을 판독하고 외부로 출력
 
-     ![image-20220104150454700](C:\study-note\developer-study\img\image-20220104150454700.png)
+     ![image-20220104150454700](https://user-images.githubusercontent.com/42468263/148175785-69736480-7154-4ac7-8e9e-a3b46f75f6c1.png)
 
    <br/>
 
