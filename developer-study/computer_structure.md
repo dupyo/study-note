@@ -644,7 +644,7 @@
    - 메모리 주소 레지스터 : 명령어 레지스터에 저장된 명령어 주소 저장
    - 프로그램 카운터 : 다음 수행할 명령어 주소 저장
 
-   ![image-20211227161810418](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211227161810418.png)
+   ![image-20211227161810418](C:\study-note\developer-study\img\image-20211227161810418.png)
 
    
 
@@ -794,7 +794,7 @@
 
    \- 해독된 결과로 제어신호를 만들어 각 장치로 전달
 
-   ![image-20211230144404704](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211230144404704.png)
+   ![image-20211230144404704](C:\study-note\developer-study\img\image-20211230144404704.png)
 
    <br/>**주기억장치의 구조**
 
@@ -811,7 +811,7 @@
 
    - 판독 회로는 해당 번지에 저장된 내용을 판독하고 외부로 출력
 
-     ![image-20220104150454700](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220104150454700.png)
+     ![image-20220104150454700](C:\study-note\developer-study\img\image-20220104150454700.png)
 
    <br/>
 
@@ -829,4 +829,5 @@
 
    주기억장치의 분할
 
-   
+    
+
