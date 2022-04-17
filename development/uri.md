@@ -2,25 +2,26 @@
 
 ## URI
 
-URI는 특정 리소스를 식별하는 통합 자원 식별자(Uniform Resource Identifier)를 의미한다. 웹 기술에서 사용하는 논리적 또는 물리적 리소스를 식별하는 고유한 문자여 시퀀스이다.
+URI는 특정 리소스를 식별하는 통합 자원 식별자(Uniform Resource Identifier)를 의미함. <br/>
+웹 기술에서 사용하는 논리적 또는 물리적 리소스를 식별하는 고유한 문자열 시퀀스임.
 
 ## URL
 
-URL은 컴퓨터 네트워크 상에서 리소스가 어디 위치하는지 알려주기 위한 규약이다. 흔히 웹 주소라고도 하며, URI의 부분집합이다.
+URL은 컴퓨터 네트워크 상에서 리소스가 어디 위치하는지 알려주기 위한 문자열임. <br/>
+흔히 웹 주소라고도 하며, URI의 부분집합임.
 
 <br/>
 
-실제 네트워크 상에서 URI와 URL을 구분하는 예시는 다음과 같다.
+실제 네트워크 상에서 URI와 URL을 구분하는 예시는 다음과 같음.
 
-https://www.example.com/index.html - URI : O, URL : O
-
-https://www.example.com/index - URI : O, URL : X
+> https://www.example.com/index.html - URI : O, URL : O <br/>
+> https://www.example.com/index - URI : O, URL : X
 
 <br/>
 
 ## URI의 구조
 
-일반적으로 URI는 다음과 같은 형태로 표현한다.
+일반적으로 URI는 다음과 같은 형태로 표현함.
 
 ```
 scheme: [//[user[:password]@]host[:port]][/path][?query][#fragment]
