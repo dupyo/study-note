@@ -24,4 +24,18 @@ A new framework of resource allocation is designed to coordinate cloud resources
 
 First, the Q-learning algorithm is used to evaluate the values of management operations in terms of Q-values. Next, based on the Q-values calculated by the Q-learning, a Q-value prediction model is developed to offer accurate and adaptive prediction for the Q-values of management operations at different system states. Notably, the proposed Qvalue prediction model integrates multiple ML-based prediction learners, and the learner with the highest prediction accuracy is selected. Finally, a new feedback-control based decision-making algorithm is designed to make decisions for management operations based on the predicted Q-values, and it can be used to find objective resource allocation plans for cloud-based software services.
 
-Extensive simulation experiments using the realworld RUBiS benchmark are conducted to validate the effectiveness of the proposed PCRA method in achieving adaptive and efficient resource allocation for cloud-based software services. The simulation results show that the PCRA method is able to choose management operations of resource allocation with 93.7 percent correctness. Moreover, the optimal/ near-optimal performance (QoS and resource costs) is obtained by using the PCRA method, and it outperforms classic ML-based and rule-based approaches by 5~7% and 10~13% under the runtime environment with various workloads and service requests.
+Extensive simulation experiments using the realworld RUBiS benchmark are conducted to validate the effectiveness of the proposed PCRA method in achieving adaptive and efficient resource allocation for cloud-based software services. The simulation results show that the PCRA method is able to choose management operations of resource allocation with 93.7 percent correctness. Moreover, the optimal/ near-optimal performance (QoS and resource costs) is obtained by using the PCRA method, and it outperforms classic ML-based and rule-based approaches by 5\~7% and 10\~13% under the runtime environment with various workloads and service requests.
+
+The rest of this paper is organized as follows. In Section 2, the related work is analyzed. Section 3 formulates the resource allocation problem for cloud-based software services. In Section 4, the PCRA method is discussed in detail. Section 5 shows performance evaluation and analysis with the RUBiS benchmark. Finally, we conclude this work in Section 6.
+
+### Related Work
+
+…
+
+The Johnson’s rule and the genetic algorithm were integrated in [14] for dealing with the problem of multiprocessor scheduling in cloud data centers.
+
+…
+
+An MLbased prediction model was designed in [26] to forecast the memory requirements of applications with specific service level agreements (SLAs).
+
+…
