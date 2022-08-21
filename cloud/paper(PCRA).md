@@ -45,3 +45,15 @@ An MLbased prediction model was designed in [26] to forecast the memory requirem
 In this section, the problem of resource allocation for cloudbased software services is formulated. In general, self-adaptive cloud platforms are expected to balance QoS and resource costs when allocating resources to cloud-based software services. Thus, an objective function is needed to measure the potential resource allocation plans [34].
 
 ...
+
+### Experiment
+
+In this section, we first present the settings and datasets in our experiments (Section 5.1). Next, we implement the proposed PCRA method and conduct performance evaluation to explore the research questions (RQs) as follows.
+
+    RQ 1: Whether the PCRA method is able to effectively realize adaptive resource allocation in different runtime environments (Section 5.2)?
+
+    RQ 2: How does the PCRA method perform in Q-value prediction and decisions for management operations (Section 5.3)?
+
+    RQ 3: How much does the PCRA method improve
+the performance of resource allocation compared
+with classic approaches (Section 5.4)?
