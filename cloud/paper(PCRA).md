@@ -54,6 +54,5 @@ In this section, we first present the settings and datasets in our experiments (
 
     RQ 2: How does the PCRA method perform in Q-value prediction and decisions for management operations (Section 5.3)?
 
-    RQ 3: How much does the PCRA method improve
-the performance of resource allocation compared
-with classic approaches (Section 5.4)?
+    RQ 3: How much does the PCRA method improve the performance of resource allocation compared with classic approaches (Section 5.4)?
+
