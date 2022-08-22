@@ -56,3 +56,5 @@ In this section, we first present the settings and datasets in our experiments (
 
     RQ 3: How much does the PCRA method improve the performance of resource allocation compared with classic approaches (Section 5.4)?
 
+For RQ 1, the experimental results show that the PCRA method achieves the performance comparable with the ideal resource allocation plans at different system states, and the performance gap between them is less than 3 percent. For RQ 2, the PCRA method can choose management operations of resource allocation with 93.7 percent correctness when using the SVM algorithm for training the Q-value prediction model. For RQ 3, the results show that the PCRA method outperforms the classic ML-based and rule-based resource allocation approaches by 5~7% and 10~13%, respectively.
+
