@@ -1,6 +1,5 @@
 # 하이퍼바이저 개념 정리
 
-------
 
 하이퍼바이저(hypervisor)는 호스트 컴퓨터에서 다수의 운영 체제(operating system)를 동시에 실행하기 위한 논리적 플랫폼을 말한다. 가상화 머신 모니터(virtual machine monitor) 또는 가상화 머신 매니저(virtual machine manager) 약어로 VMM라고 한다.
 
