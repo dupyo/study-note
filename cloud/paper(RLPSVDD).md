@@ -10,3 +10,4 @@ As one of the fastest-developing technologies, cloud computing is becoming incre
 
 ## Related Work
 
+Time series anomaly detection has been a critical research topic in the domain of data analysis for decades. It has been widely applied to various areas related to the processing of sequential datasets. In cloud computing systems, time series anomaly detection plays the role of the very first messenger who reports abnormal behaviors of the target services. Due to its significance, diverse researches have been undertaken to detect time series anomalies aiming for low false positive rate and high efficiency [12], [17], [18], [20], [33].
