@@ -1,5 +1,4 @@
 # study-note
-노트 정리
 
 - [basic](https://github.com/dupyo/study-note/tree/main/basic)
 - [cloud](https://github.com/dupyo/study-note/tree/main/cloud)
