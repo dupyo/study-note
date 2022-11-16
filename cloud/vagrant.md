@@ -34,11 +34,13 @@
 
 컨테이너 실행 중 vagrant provision 명령어를 실행했더니 
 
-`w1-k8s: [preflight] Running pre-flight checks
+```
+w1-k8s: [preflight] Running pre-flight checks
     w1-k8s: error execution phase preflight: [preflight] Some fatal errors occurred:
     w1-k8s:     [ERROR FileAvailable--etc-kubernetes-kubelet.conf]: /etc/kubernetes/kubelet.conf already exists
     w1-k8s:     [ERROR Port-10250]: Port 10250 is in use
     w1-k8s:     [ERROR FileAvailable--etc-kubernetes-pki-ca.crt]: /etc/kubernetes/pki/ca.crt already exists
-    w1-k8s: [preflight] If you know what you are doing, you can make a check non-fatal with `--ignore-preflight-errors=...``
+    w1-k8s: [preflight] If you know what you are doing, you can make a check non-fatal with `--ignore-preflight-errors=...`
+```
 
 라는 이미 사용중인 포트라는 에러 메시지가 떴음
