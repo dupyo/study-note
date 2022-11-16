@@ -1,4 +1,4 @@
-# 컨테이너 보안
+# 컨테이너 보안(Container Security)
 
 컨테이너와 쿠버네티스를 사용함에 있어서 보안(Security)와 관측가능성(Observability), 즉 가시성 확보가 중요함
 
