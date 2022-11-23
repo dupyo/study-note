@@ -51,3 +51,15 @@ docker cp ./ROOT.war tomcat-test:/usr/local/tomcat/webapps/
 # 따라서 필요에 따라 tomcat/conf/server.xml 파일에서 HTTP/1.1 통신 포트 번호를 변경해줘야 함.
 
 ```
+
+## 도커 컨테이너 내부에서 호스트에 접근하는 방법
+
+```docker
+curl host.docker.internal:{port}
+```
+
+## 미니쿠베(minikube)로 웹 애플리케이션 배포
+
+관련 블로그 참고
+
+[[쿠버네티스] docker 이미지 빌드 부터 helm 배포까지 [1부]](https://jay-ji.tistory.com/97)
