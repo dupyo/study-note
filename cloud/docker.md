@@ -24,6 +24,14 @@ docker save [option : --output, -o] [tar filename] [image name]
 
  - docker import (tar → docker image)
 
+## 해야 할 일
+
+톰캣 war 파일을 도커 이미지로 만들어서 컨테이너로 실행시켜보기
+
+로컬 IDE 환경에서 openlab-web-admin 프로젝트 화면 띄우기
+
+![https://i.stack.imgur.com/wmKgd.png](https://i.stack.imgur.com/wmKgd.png)
+
 ## 사용 명령어 모음
 
 ```docker
