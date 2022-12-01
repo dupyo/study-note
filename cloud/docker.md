@@ -75,3 +75,9 @@ curl host.docker.internal:{port}
 관련 블로그 참고
 
 [[쿠버네티스] docker 이미지 빌드 부터 helm 배포까지 [1부]](https://jay-ji.tistory.com/97)
+
+```docker
+minikube start
+docker ps
+kubectl create namespace <NAMESPACE_NAME>
+```
