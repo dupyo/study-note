@@ -77,7 +77,12 @@ curl host.docker.internal:{port}
 [[쿠버네티스] docker 이미지 빌드 부터 helm 배포까지 [1부]](https://jay-ji.tistory.com/97)
 
 ```docker
+# 1. minikube 설치 및 실행
 minikube start
 docker ps
 kubectl create namespace <NAMESPACE_NAME>
+
+# 2. 도커 이미지 빌드(build)
+docker pull registry
+docker run --name local-registry -d -p 5000:5000 registry
 ```
