@@ -1,1 +1,1 @@
-# Dependencies Analysis of Performance Monitoring for Cloud Computing using Recurrent Neural Network
+# Dependencies Analysis of cloud applications for performance monitoring using recurrent neural networks
