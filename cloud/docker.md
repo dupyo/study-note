@@ -76,13 +76,25 @@ curl host.docker.internal:{port}
 
 [[쿠버네티스] docker 이미지 빌드 부터 helm 배포까지 [1부]](https://jay-ji.tistory.com/97)
 
+1. minikube 설치 및 실행
 ```docker
-# 1. minikube 설치 및 실행
 minikube start
 docker ps
 kubectl create namespace <NAMESPACE_NAME>
-
-# 2. 도커 이미지 빌드(build)
+```
+2. 도커 이미지 빌드(build)
+a. 로컬에 docker registry 컨테이너를 띄워서 사용
+```
 docker pull registry
 docker run --name local-registry -d -p 5000:5000 registry
 ```
+b. docker hub(외부) 사용
+```
+docker nuild -t <도커 허브 저장소 이름>/<이미지 이름>:<버전> .
+docker push <도커 허브 저장소 이르>/<이미지 이름>:<버전>
+```
+c. minikube 내부의 registry 사용
+```
+* 따로 정리할 예정
+```
+
