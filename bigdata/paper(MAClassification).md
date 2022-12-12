@@ -21,3 +21,10 @@
 2. 서포트 벡터머신
 3. 의사결정트리
 
+
+### The Proposed Scheme
+
+1. Data Collection
+2. Tokenization
+3. Characteristic Analysis
+4. Analytical Model
