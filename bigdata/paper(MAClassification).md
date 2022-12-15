@@ -28,3 +28,11 @@
 2. Tokenization
 3. Characteristic Analysis
 4. Analytical Model
+
+## Implementation and Testing
+
+1. Collecting thesis data and creating a database
+2. Word tokenization and data Preconfiguration
+3. Analyze attributes by classification and organize analysis data sets
+4. Classification model validation
+5. Analysis Result
