@@ -36,3 +36,5 @@
 3. Analyze attributes by classification and organize analysis data sets
 4. Classification model validation
 5. Analysis Result
+
+
