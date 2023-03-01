@@ -1,3 +1,3 @@
-# 노트 정리 시작!!!
+# 노트 정리
 
-## Java, Spring, Python, 컴퓨터 구조
+## Java, Spring, Python, CS(Computer Science)
