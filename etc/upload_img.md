@@ -1,5 +1,7 @@
 # github 이미지 업로드하는 방법
 
+    * 최근 github 버전에서는 이미지를 붙여넣으면 자동으로 링크가 생성됨.
+
 1. 레퍼지토리 내 여러 탭 중 [Issues] 에 들어가서 [New issue] 클릭
 
    ![upload_img03](https://user-images.githubusercontent.com/42468263/148888366-f9fb1ad2-96a8-48a8-9d95-f34b82b3cf59.png)
