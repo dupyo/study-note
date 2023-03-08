@@ -7,3 +7,4 @@
 - [security](https://github.com/dupyo/study-note/tree/main/security)
 - [theory](https://github.com/dupyo/study-note/tree/main/theory)
 - [etc](https://github.com/dupyo/study-note/tree/main/etc)
+- [README.md](https://github.com/dupyo/study-note/tree/main/README.md)
