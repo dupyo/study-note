@@ -1,1 +1,5 @@
 # File system
+
+```
+hexdump /
+```
