@@ -17,6 +17,7 @@
 결정 트리 계열의 비지도 학습 알고리즘으로 High dimensional 데이터셋에서 이상치를 탐지할 때 효과적인 방법이다.
 
 ![image](https://github.com/dupyo/study-note/assets/42468263/73e2673c-9388-4d0f-b334-d4304cbf1b3c)
+https://pubs.rsc.org/en/content/articlelanding/2016/ay/c6ay01574c#!divAbstract
 
 데이터셋을 결정 트리 형태로 표현해 정상 데이터를 분리하기 위해서는 트리의 깊이가 깊어지고 
 반대로 이상치는 트리의 상단에서 분리할 수 있다는 개념을 이용한다. 
