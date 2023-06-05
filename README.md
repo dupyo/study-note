@@ -1,4 +1,4 @@
-# study-note.
+# study-note
 
 - [bigdata](https://github.com/dupyo/study-note/tree/main/bigdata)
 - [cloud](https://github.com/dupyo/study-note/tree/main/cloud)
