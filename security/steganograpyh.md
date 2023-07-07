@@ -5,3 +5,7 @@
 - 사람이 인식하지 못하도록 원본의 외형적(화질, 음질 등) 변화를 최소화하면서 유의미한 메시지를 넣음(오디오 파일의 경우 인간의 청각 영역을 벗어난 주파수 대역에 메시지를 삽입하기도 함)
 - 이미지 선택 후 암호화 키를 이용하여 메시지를 embedding시켜 이미지에 삽입
 - 반대로 복호화 시에는 암호화에 사용하였던 키를 이용하여 추출하면 메시지를 추출
+
+## Reference
+
+[이철, 김용만 and 유승재. "스테가노그라피를 활용한 정보은닉 응용기법 연구" 융합보안 논문지 10, no.2 (2010) : 19-26.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001521336)
