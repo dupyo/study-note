@@ -1,4 +1,4 @@
-# 개별공부(study-note)
+# 개별공부
 
 - [bigdata](https://github.com/dupyo/study-note/tree/main/bigdata)
 - [cloud](https://github.com/dupyo/study-note/tree/main/cloud)
